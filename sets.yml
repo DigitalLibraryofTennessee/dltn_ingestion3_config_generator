@@ -127,7 +127,6 @@ tsla:
   - WWI
 utk:
   - bcpl
-  - nfp
   - utk_3d
   - utk_acwiley
   - utk_adams
@@ -135,8 +134,6 @@ utk:
   - utk_agrtfhs
   - utk_airscoop
   - utk_alumnus
-  - utk_arrow
-  - utk_arrscrap
   - utk_arrsimple
   - utk_brehm
   - utk_cdf
