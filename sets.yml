@@ -93,6 +93,7 @@ tsla:
   - p15138coll25
   - p15138coll26
   - p15138coll27
+  - tsla_p15138coll28
   - p15138coll29
   - p15138coll3
   - tsla_p15138coll31
@@ -132,8 +133,10 @@ utk:
   - utk_adams
   - utk_agee
   - utk_agrtfhs
+  - utk_agrutesc
   - utk_airscoop
   - utk_alumnus
+  - utk_arrpgimg
   - utk_arrsimple
   - utk_brehm
   - utk_cdf
@@ -148,6 +151,7 @@ utk:
   - utk_emancip
   - utk_fiftyyears
   - utk_gamble
+  - utk_garner
   - utk_hbs
   - utk_heilman
   - utk_humbug
@@ -212,3 +216,4 @@ utc:
   - utc_p16877coll29
   - utc_p16877coll30
   - utc_p16877coll31
+  - utc_p16877coll32
