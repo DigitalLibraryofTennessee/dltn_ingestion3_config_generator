@@ -110,7 +110,9 @@ tsla:
   - tsla_p15138coll43
   - tsla_p15138coll44
   - tsla_p15138coll45
+  - tsla_p15138coll46
   - tsla_p15138coll47
+  - tsla_p15138coll48
   - p15138coll5
   - p15138coll6
   - p15138coll7
@@ -181,9 +183,12 @@ utk:
   - utk_utsmc
   - utk_vanvactor
   - utk_voice
+  - utk_voloh
   - utk_volvoices
   - utk_vpmoore
+  - utk_wcc
   - utk_wderfilms
+  - utk_webster
   - utk_yrb
 utc:
   - p16877coll1
@@ -218,3 +223,4 @@ utc:
   - utc_p16877coll30
   - utc_p16877coll31
   - utc_p16877coll32
+  - utc_p16877coll33
