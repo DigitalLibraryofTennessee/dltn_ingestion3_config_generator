@@ -141,6 +141,7 @@ utk:
   - utk_arrpgimg
   - utk_arrsimple
   - utk_brehm
+  - utk_burford
   - utk_cdf
   - utk_charlie
   - utk_colloquy
@@ -156,16 +157,21 @@ utk:
   - utk_garner
   - utk_hbs
   - utk_heilman
+  - utk_hesler
   - utk_humbug
   - utk_indtruth
+  - utk_jsevier
   - utk_kefauver
   - utk_knoxgardens
   - utk_marchingband
+  - utk_menbball
   - utk_mpabaker
   - utk_mugwump
   - utk_phoenix
   - utk_playbills
   - utk_postcards
+  - utk_ramseyfp
+  - utk_revwar
   - utk_rfj
   - utk_roth
   - utk_ruskin
@@ -174,6 +180,7 @@ utk:
   - utk_smhc
   - utk_sturley
   - utk_swim
+  - utk_tdh
   - utk_tenncities
   - utk_tennessean
   - utk_tenngirl
@@ -189,6 +196,8 @@ utk:
   - utk_wcc
   - utk_wderfilms
   - utk_webster
+  - utk_womenbball
+  - utk_wwiioh
   - utk_yrb
 utc:
   - p16877coll1
@@ -224,3 +233,8 @@ utc:
   - utc_p16877coll31
   - utc_p16877coll32
   - utc_p16877coll33
+  - utc_p16877coll34
+  - utc_p16877coll35
+  - utc_p16877coll36
+  - utc_p16877coll37
+  - utc_p16877coll38
