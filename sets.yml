@@ -142,8 +142,10 @@ utk:
   - utk_arrsimple
   - utk_brehm
   - utk_burford
+  - utk_calahan
   - utk_cdf
   - utk_charlie
+  - utk_civilwar
   - utk_colloquy
   - utk_comm
   - utk_dabney
@@ -155,16 +157,24 @@ utk:
   - utk_fiftyyears
   - utk_gamble
   - utk_garner
+  - utk_harp
   - utk_hbs
   - utk_heilman
   - utk_hesler
   - utk_humbug
+  - utk_insurancena
   - utk_indtruth
   - utk_jsevier
   - utk_kefauver
+  - utk_kintner
   - utk_knoxgardens
+  - utk_ladycross
+  - utk_ladytennis
   - utk_marchingband
+  - utk_menbase
   - utk_menbball
+  - utk_mencross
+  - utk_mentrack
   - utk_mpabaker
   - utk_mugwump
   - utk_phoenix
@@ -173,6 +183,7 @@ utk:
   - utk_ramseyfp
   - utk_revwar
   - utk_rfj
+  - utk_rmtravis
   - utk_roth
   - utk_ruskin
   - utk_sanborn
@@ -180,6 +191,7 @@ utk:
   - utk_smhc
   - utk_sturley
   - utk_swim
+  - utk_tatum
   - utk_tdh
   - utk_tenncities
   - utk_tennessean
@@ -193,6 +205,7 @@ utk:
   - utk_voloh
   - utk_volvoices
   - utk_vpmoore
+  - utk_walden
   - utk_wcc
   - utk_wderfilms
   - utk_webster
