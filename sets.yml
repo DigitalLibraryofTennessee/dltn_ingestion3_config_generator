@@ -46,6 +46,7 @@ memphis:
   - p16108coll2
   - p16108coll3
   - p16108coll4
+  - memphispublic_p16108coll5
   - p16108coll9
   - p16108coll6
   - p16108coll8
@@ -62,6 +63,9 @@ nashville:
   - nr
   - p15769coll18
   - nash_p15769coll19
+oakridgepublic:
+  - oakridge_p15388cdi
+  - oakridge_p16107coll3
 tsla:
   - agricult
   - bernhardt
@@ -127,6 +131,10 @@ tsla:
   - tfd
   - tpc
   - WWI
+tsu:
+  - tsulibrarydigitalcollections
+  - tsupublicationallcatalgouesr0
+  - tsupublicationyearbooksr0
 utk:
   - bcpl
   - utk_3d
