@@ -26,6 +26,10 @@ knoxpl:
   - p265301coll005
   - p265301coll7
   - p265301coll9
+  - KnoxCountyPublicLibrary_p16311coll3
+  - KnoxCountyPublicLibrary_p265301coll8
+  - KnoxCountyPublicLibrary_p15136coll4
+  - KnoxCountyPublicLibrary_p15136coll3
 memphis:
   - p13039coll2
   - p13039coll3
@@ -130,6 +134,7 @@ tsla:
   - Strickland
   - tfd
   - tpc
+  - tsla_highlander
   - WWI
 tsu:
   - tsulibrarydigitalcollections
@@ -162,6 +167,7 @@ utk:
   - utk_egypt
   - utk_ekcd
   - utk_emancip
+  - utk_fbpro
   - utk_fiftyyears
   - utk_gamble
   - utk_garner
