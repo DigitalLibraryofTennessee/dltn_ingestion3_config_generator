@@ -1,3 +1,5 @@
+cbu:
+  - cbu_p15916coll1
 cmhf:
   - cmhf_hatch
   - cmhf_musicaudio
@@ -71,6 +73,8 @@ nashville:
 oakridgepublic:
   - oakridge_p15388cdi
   - oakridge_p16107coll3
+tntech:
+  - tntech
 tsla:
   - agricult
   - bernhardt
@@ -267,3 +271,4 @@ utc:
   - utc_p16877coll36
   - utc_p16877coll37
   - utc_p16877coll38
+  - utc_p16877coll40
