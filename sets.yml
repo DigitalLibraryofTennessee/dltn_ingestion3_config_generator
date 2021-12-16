@@ -75,6 +75,7 @@ oakridgepublic:
   - oakridge_p16107coll3
 tntech:
   - tntech
+  - tntech2
 tsla:
   - agricult
   - bernhardt
@@ -126,6 +127,9 @@ tsla:
   - tsla_p15138coll46
   - tsla_p15138coll47
   - tsla_p15138coll48
+  - tsla_p15138coll49
+  - tsla_p15138coll50
+  - tsla_p15138coll51
   - p15138coll5
   - p15138coll6
   - p15138coll7
@@ -188,11 +192,19 @@ utk:
   - utk_kintner
   - utk_knoxgardens
   - utk_ladycross
+  - utk_ladyrowing
+  - utk_ladysoccer
+  - utk_ladysoft
+  - utk_ladyswim
   - utk_ladytennis
+  - utk_ladytrack
+  - utk_ladyvolley
   - utk_marchingband
   - utk_menbase
   - utk_menbball
   - utk_mencross
+  - utk_mengolf
+  - utk_mentennis
   - utk_mentrack
   - utk_mpabaker
   - utk_mugwump
@@ -202,6 +214,7 @@ utk:
   - utk_ramseyfp
   - utk_revwar
   - utk_rfj
+  - utk_rfta
   - utk_rmtravis
   - utk_roth
   - utk_ruskin
@@ -230,6 +243,7 @@ utk:
   - utk_wderfilms
   - utk_webster
   - utk_womenbball
+  - utk_wrestling
   - utk_wwiioh
   - utk_yrb
 utc:
