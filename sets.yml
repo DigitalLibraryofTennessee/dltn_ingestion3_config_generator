@@ -56,6 +56,12 @@ memphis:
   - p16108coll9
   - p16108coll6
   - p16108coll8
+mca:
+  - mca_Adkins
+  - mca_Ammons
+  - mca_consolidation
+  - mca_Cunningham
+  - mca_Parrish
 mtsu:
   - mtsu_buchanan
   - mtsu_cannon
