@@ -168,6 +168,7 @@ utk:
   - utk_alumnus
   - utk_arrpgimg
   - utk_arrsimple
+  - utk_boydcs
   - utk_brehm
   - utk_burford
   - utk_calahan
@@ -238,6 +239,7 @@ utk:
   - utk_thompson
   - utk_torch
   - utk_univmonthly
+  - utk_utrecord
   - utk_utsmc
   - utk_vanvactor
   - utk_voice
@@ -291,4 +293,5 @@ utc:
   - utc_p16877coll36
   - utc_p16877coll37
   - utc_p16877coll38
+  - utc_p16877coll39
   - utc_p16877coll40
