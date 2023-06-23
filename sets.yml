@@ -1,3 +1,10 @@
+bcpl:
+  - bcpl_p17194coll4
+  - bcpl_p17194coll8
+  - bcpl_p17194coll14
+  - bcpl_p17194coll16
+  - bcpl_p17194coll17
+  - bcpl_p17194coll19
 cbu:
   - cbu_p15916coll1
 cmhf:
@@ -82,6 +89,7 @@ oakridgepublic:
 tntech:
   - tntech
   - tntech2
+  - tntech3
 tsla:
   - agricult
   - bernhardt
@@ -185,6 +193,7 @@ utk:
   - utk_emancip
   - utk_fbpro
   - utk_fiftyyears
+  - utk_galston
   - utk_gamble
   - utk_garner
   - utk_harp
@@ -222,6 +231,7 @@ utk:
   - utk_revwar
   - utk_rfj
   - utk_rfta
+  - utk_rftaart
   - utk_rmtravis
   - utk_roth
   - utk_ruskin
@@ -295,3 +305,4 @@ utc:
   - utc_p16877coll38
   - utc_p16877coll39
   - utc_p16877coll40
+  - utc_p16877coll41
