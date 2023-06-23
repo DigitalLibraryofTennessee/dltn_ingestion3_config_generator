@@ -80,8 +80,9 @@ mtsu:
   - mtsu_schools
   - mtsu_shades
 nashville:
-  - nr
-  - p15769coll18
+  - nr_good
+  - p15769coll22
+  - p15769coll23
   - nash_p15769coll19
 oakridgepublic:
   - oakridge_p15388cdi
