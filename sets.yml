@@ -10,6 +10,8 @@ cbu:
 cmhf:
   - cmhf_hatch
   - cmhf_musicaudio
+chattpub:
+  - chattpub_localhistory
 rhodes:
   - crossroads_beale
   - crossroads_everett_cook
@@ -80,9 +82,11 @@ mtsu:
   - mtsu_schools
   - mtsu_shades
 nashville:
-  - nr
+  - nr_good
   - p15769coll18
   - nash_p15769coll19
+  - p15769coll22
+  - p15769coll23
 oakridgepublic:
   - oakridge_p15388cdi
   - oakridge_p16107coll3
@@ -90,6 +94,7 @@ tntech:
   - tntech
   - tntech2
   - tntech3
+  - tntech4
 tsla:
   - agricult
   - bernhardt
@@ -227,6 +232,7 @@ utk:
   - utk_phoenix
   - utk_playbills
   - utk_postcards
+  - utk_ossoli
   - utk_ramseyfp
   - utk_revwar
   - utk_rfj
@@ -306,3 +312,10 @@ utc:
   - utc_p16877coll39
   - utc_p16877coll40
   - utc_p16877coll41
+  - utc_p16877coll42
+  - utc_p16877coll43
+  - utc_p16877coll44
+  - utc_p16877coll45
+  - utc_p16877coll46
+  - utc_p16877coll47
+  - utc_p16877coll48
