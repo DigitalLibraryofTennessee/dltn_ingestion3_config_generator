@@ -94,6 +94,7 @@ tntech:
   - tntech2
   - tntech3
   - tntech4
+  - tntech5
 tsla:
   - agricult
   - bernhardt
@@ -219,6 +220,7 @@ utk:
   - utk_ladytennis
   - utk_ladytrack
   - utk_ladyvolley
+  - utk_lanecol
   - utk_marchingband
   - utk_menbase
   - utk_menbball
@@ -233,7 +235,6 @@ utk:
   - utk_postcards
   - utk_ossoli
   - utk_ramseyfp
-  - utk_revwar
   - utk_rfj
   - utk_rfta
   - utk_rftaart
@@ -262,6 +263,7 @@ utk:
   - utk_volvoices
   - utk_vpmoore
   - utk_walden
+  - utk_wallace
   - utk_wcc
   - utk_wderfilms
   - utk_webster
@@ -318,3 +320,6 @@ utc:
   - utc_p16877coll46
   - utc_p16877coll47
   - utc_p16877coll48
+  - utc_p16877coll52
+  - utc_p16877coll53
+  - utc_p16877coll55
