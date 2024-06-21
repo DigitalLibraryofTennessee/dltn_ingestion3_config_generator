@@ -70,6 +70,11 @@ mca:
   - mca_Ammons
   - mca_consolidation
   - mca_Cunningham
+  - mca_Danforth
+  - mca_Foston
+  - mca_hazel_goodlet
+  - mca_jtcpapers
+  - mca_MCCivDefense
   - mca_Parrish
 mtsu:
   - mtsu_buchanan
@@ -94,7 +99,8 @@ tntech:
   - tntech2
   - tntech3
   - tntech4
-  - tntech5
+  - tntech_PS
+  - tntech_june24
 tsla:
   - agricult
   - bernhardt
@@ -127,6 +133,7 @@ tsla:
   - p15138coll27
   - tsla_p15138coll28
   - p15138coll29
+  - tsla_p15138coll30
   - p15138coll3
   - tsla_p15138coll31
   - p15138coll32
@@ -181,6 +188,7 @@ utk:
   - utk_alumnus
   - utk_arrpgimg
   - utk_arrsimple
+  - utk_beacon
   - utk_boydcs
   - utk_brehm
   - utk_burford
@@ -255,6 +263,8 @@ utk:
   - utk_thompson
   - utk_torch
   - utk_univmonthly
+  - utk_uthandbooks
+  - utk_utmag
   - utk_utrecord
   - utk_utsmc
   - utk_vanvactor
@@ -320,6 +330,10 @@ utc:
   - utc_p16877coll46
   - utc_p16877coll47
   - utc_p16877coll48
+  - utc_p16877coll50
+  - utc_p16877coll51
   - utc_p16877coll52
   - utc_p16877coll53
+  - utc_p16877coll54
   - utc_p16877coll55
+  - utc_p16877coll56
