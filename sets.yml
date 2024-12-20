@@ -84,6 +84,7 @@ mtsu:
   - mtsu_p15838coll4
   - mtsu_p15838coll7
   - mtsu_p15838coll16
+  - mtsu_p15838coll17
   - mtsu_schools
   - mtsu_shades
 nashville:
@@ -101,6 +102,7 @@ tntech:
   - tntech4
   - tntech_PS
   - tntech_june24
+  - tntech_dec24
 tsla:
   - agricult
   - bernhardt
@@ -213,7 +215,6 @@ utk:
   - utk_hbs
   - utk_heilman
   - utk_hesler
-  - utk_humbug
   - utk_insurancena
   - utk_indtruth
   - utk_jsevier
@@ -255,7 +256,7 @@ utk:
   - utk_sturley
   - utk_swim
   - utk_tatum
-  - utk_tdh
+  - utk_tdh_2
   - utk_tenncities
   - utk_tennessean
   - utk_tenngirl
@@ -270,7 +271,7 @@ utk:
   - utk_vanvactor
   - utk_voice
   - utk_voloh
-  - utk_volvoices
+  - utk_volvoices_2
   - utk_vpmoore
   - utk_walden
   - utk_wallace
@@ -337,3 +338,6 @@ utc:
   - utc_p16877coll54
   - utc_p16877coll55
   - utc_p16877coll56
+  - utc_p16877coll57
+  - utc_p16877coll58
+  - utc_p16877coll60
