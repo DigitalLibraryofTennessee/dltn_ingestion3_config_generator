@@ -88,9 +88,10 @@ mtsu:
   - mtsu_schools
   - mtsu_shades
 nashville:
-  - nr_good
+  - nr_2025
+  - nash_p15769coll6
   - nash_p15769coll19
-  - p15769coll22
+  - nash_p15769coll22
   - p15769coll23
 oakridgepublic:
   - oakridge_p15388cdi
@@ -103,6 +104,7 @@ tntech:
   - tntech_PS
   - tntech_june24
   - tntech_dec24
+  - tntech_june25
 tsla:
   - agricult
   - bernhardt
@@ -341,3 +343,4 @@ utc:
   - utc_p16877coll57
   - utc_p16877coll58
   - utc_p16877coll60
+  - utc_p16877coll61
