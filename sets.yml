@@ -88,7 +88,7 @@ mtsu:
   - mtsu_schools
   - mtsu_shades
 nashville:
-  - nr_2025
+  - nr_2026
   - nash_p15769coll6
   - nash_p15769coll19
   - nash_p15769coll22
@@ -174,7 +174,7 @@ tsla:
   - tfd
   - tpc
   - tsla_highlander
-  - WWI
+  - tsla_WWI_qdc
 tsu:
   - tsulibrarydigitalcollections
   - tsupublicationallcatalgouesr0
