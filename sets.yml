@@ -90,6 +90,7 @@ mtsu:
 nashville:
   - nr_2026
   - nash_p15769coll6
+  - nash_p15769coll7
   - nash_p15769coll19
   - nash_p15769coll22
   - p15769coll23
@@ -105,6 +106,7 @@ tntech:
   - tntech_june24
   - tntech_dec24
   - tntech_june25
+  - tntech_dec25
 tsla:
   - agricult
   - bernhardt
@@ -342,5 +344,20 @@ utc:
   - utc_p16877coll56
   - utc_p16877coll57
   - utc_p16877coll58
+  - utc_p16877coll59
   - utc_p16877coll60
   - utc_p16877coll61
+  - utc_p16877coll62
+
+utm:
+  - umemphispublicationspeccollmsr0
+  - umemphispublicationspeccollmsr1
+  - umemphispublicationspeccollmsr3
+  - umemphispublicationspeccollmsr4
+  - umemphispublicationspeccollmsr7
+  - umemphispublicationspeccollmsr8
+  - umemphispublicationspeccollmsr9
+  - umemphispublicationspeccollmsr10
+  - umemphispublicationspeccollmsr11
+  - umemphispublicationspeccollmsr12
+  - umemphispublicationspeccollmsr13
