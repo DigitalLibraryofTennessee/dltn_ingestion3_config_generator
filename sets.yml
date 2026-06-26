@@ -89,6 +89,7 @@ mtsu:
   - mtsu_shades
 nashville:
   - nr_2026
+  - nash_p15769coll2
   - nash_p15769coll6
   - nash_p15769coll7
   - nash_p15769coll19
@@ -335,6 +336,7 @@ utc:
   - utc_p16877coll46
   - utc_p16877coll47
   - utc_p16877coll48
+  - utc_p16877coll49
   - utc_p16877coll50
   - utc_p16877coll51
   - utc_p16877coll52
