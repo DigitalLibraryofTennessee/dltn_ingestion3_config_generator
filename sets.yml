@@ -350,6 +350,10 @@ utc:
   - utc_p16877coll60
   - utc_p16877coll61
   - utc_p16877coll62
+  - utc_p16877coll63
+  - utc_p16877coll64
+  - utc_p16877coll65
+  - utc_p16877coll67
 
 utm:
   - umemphispublicationspeccollmsr0
